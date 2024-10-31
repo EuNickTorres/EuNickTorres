@@ -1,4 +1,4 @@
-## Hi there, I'm OTAIMER 2.0 👋
+## Hi there, I'm EuNickTorres 👋
 
 - 🔭 I’m currently working on Full-Stack
 - 🌱 I’m currently learning M.E.R.N stack
