@@ -1,8 +1,8 @@
 ## Hi there, I'm EuNickTorres 👋
 
-- 🔭 I’m currently working on Full-Stack
-- 🌱 I’m currently learning M.E.R.N stack
-- 👯 I’m looking to collaborate on Full-Stack projects
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate on 
 - 😄 Pronouns: he/him
 
 <table>
