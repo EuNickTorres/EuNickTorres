@@ -1,7 +1,7 @@
 ## Hi there, I'm Nicollas Torres 👋
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
+- 🔭 I’m currently working in Sport Clube Corinthians Paulista Comercial departament
+- 🌱 I’m studying systems analysis and development 
 - 👯 I’m looking to collaborate on 
 - 😄 Pronouns: he/him
 
